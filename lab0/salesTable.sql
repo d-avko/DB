@@ -1,1 +1,0 @@
-CREATE TABLE sales.Orders (OrderNum INT NULL);

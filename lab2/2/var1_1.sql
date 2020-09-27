@@ -1,6 +1,0 @@
-use Company
-go
-
-ALTER TABLE dbo.Person
-   ADD ID BIGINT IDENTITY(10,10)
-       CONSTRAINT PK_Person PRIMARY KEY CLUSTERED
